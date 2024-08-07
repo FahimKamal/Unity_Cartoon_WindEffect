@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 1029853041338141098}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.94, z: 0}
+  m_LocalPosition: {x: 2.73, y: -4.11, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1635,8 +1635,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.45892817
-          value: 0.35789788
+          time: 0.46356684
+          value: 0.72713006
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -1653,8 +1653,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.34023586
         - serializedVersion: 3
-          time: 0.7764721
-          value: 0.2257897
+          time: 0.7733593
+          value: -0.5126715
           inSlope: -0.10938957
           outSlope: -0.10938957
           tangentMode: 0
@@ -1663,7 +1663,7 @@ ParticleSystem:
           outWeight: 0.33333334
         - serializedVersion: 3
           time: 1
-          value: 0
+          value: -0.8153839
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -4966,7 +4966,7 @@ Transform:
   m_GameObject: {fileID: 8484810453577583578}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.57, y: -1.5, z: 0}
+  m_LocalPosition: {x: 4.86, y: -4.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6574,8 +6574,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.45892817
-          value: 0.35789788
+          time: 0.46356684
+          value: 0.72713006
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -6592,8 +6592,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.34023586
         - serializedVersion: 3
-          time: 0.7764721
-          value: 0.2257897
+          time: 0.7733593
+          value: -0.5126715
           inSlope: -0.10938957
           outSlope: -0.10938957
           tangentMode: 0
@@ -6602,7 +6602,7 @@ ParticleSystem:
           outWeight: 0.33333334
         - serializedVersion: 3
           time: 1
-          value: 0
+          value: -0.8153839
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -11517,8 +11517,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.45892817
-          value: 0.35789788
+          time: 0.46356684
+          value: 0.72713006
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -11535,8 +11535,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.34023586
         - serializedVersion: 3
-          time: 0.7764721
-          value: 0.2257897
+          time: 0.7733593
+          value: -0.5126715
           inSlope: -0.10938957
           outSlope: -0.10938957
           tangentMode: 0
@@ -11545,7 +11545,7 @@ ParticleSystem:
           outWeight: 0.33333334
         - serializedVersion: 3
           time: 1
-          value: 0
+          value: -0.8153839
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -11590,17 +11590,26 @@ ParticleSystem:
         - serializedVersion: 3
           time: 0.0015487671
           value: -0.010526657
-          inSlope: -0.035142012
-          outSlope: -0.035142012
+          inSlope: -0.035142016
+          outSlope: -0.035142016
           tangentMode: 34
           weightedMode: 0
           inWeight: 0
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 1
-          value: -0.045614243
+          time: 0.43100134
+          value: -0.025618486
           inSlope: -0.035142012
           outSlope: -0.035142012
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 1
+          value: -0.045614243
+          inSlope: -0.03514201
+          outSlope: -0.03514201
           tangentMode: 34
           weightedMode: 0
           inWeight: 0.33333334
@@ -14847,12 +14856,12 @@ PrefabInstance:
     - target: {fileID: 6845072979028812959, guid: 541bc8d39eef76b4599a4cfc0ce0782e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.5999999
+      value: -1.97
       objectReference: {fileID: 0}
     - target: {fileID: 6845072979028812959, guid: 541bc8d39eef76b4599a4cfc0ce0782e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.8600001
+      value: -1.53
       objectReference: {fileID: 0}
     - target: {fileID: 6845072979028812959, guid: 541bc8d39eef76b4599a4cfc0ce0782e,
         type: 3}
